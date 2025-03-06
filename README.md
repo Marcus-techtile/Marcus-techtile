@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=Marcus-techtile&color=blue&base=313)
 <!--
 **Marcus-techtile/Marcus-techtile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
